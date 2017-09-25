@@ -18,6 +18,7 @@ INSTRUCTIONS:
               *EACH TRANSLATION MUST MATCH THE ORDER OF THE ENGLISH LIST*
    For this to work, the translations of the English words/phrases must be in the same order as the originals. 
                i.e.:    
+               
                *English*           
                 hello                 
                 lettuce              
