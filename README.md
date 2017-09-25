@@ -17,10 +17,17 @@ INSTRUCTIONS:
 3. You will be prompted to input a list of words/phrases in the other language you wish to use.
               *EACH TRANSLATION MUST MATCH THE ORDER OF THE ENGLISH LIST*
    For this to work, the translations of the English words/phrases must be in the same order as the originals. 
-               i.e.:    *English*             *Spanish*
-                         hello                 hola
-                         lettuce               lechuga
-                         beber                 to drink
+               i.e.:    
+               *English*           
+                hello                 
+                lettuce              
+                to drink   
+                
+                *Spanish*
+                hola
+                lechuga
+                beber
+                
    If you do not match the orders of the words/phrases, your worksheet will be off. 
    
    -if you wish to input each word/phrase one by one, simply press enter after you complete each phrase/word. *IF YOU INTEND TO INPUT A PHRASE, DO NOT PRESS ENTER BEFORE YOU HAVE COMPLETELY ENTERED THE ENTIRE PHRASE* Program reads line by line, pressing enter will trigger a new element in the array. When you have completely entered the list, input "#" to end the list. 
